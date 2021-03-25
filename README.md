@@ -1,4 +1,5 @@
 ### Hello world - instrukcja
-Witaj świecie! Test TESTSS
-nie wiem co się dzieje
-lolol
+Witaj świecie! 
+\n Zaimplementowano na mastera kalkulator z funkcjami: dodaj, usuń, wyświetl.
+
+
